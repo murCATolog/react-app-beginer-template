@@ -1,0 +1,10 @@
+/* Тут основні стилі для всього проєкту */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Ubuntu", "Segoe UI", "Roboto", "Oxygen", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
